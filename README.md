@@ -1,1 +1,2 @@
-# startup
+# Test lmao
+kill me
